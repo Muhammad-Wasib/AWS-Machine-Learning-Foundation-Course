@@ -24,6 +24,22 @@
  .Long names != descriptive names 
  .Use whitespace properly
 --------------------------------
+5.QUIZ Clean code.
+--------------------------------
+6.Writing Modular Code
+.Tips:
+ .Writing modular code is a necessary practice in software development.
+ .Don't repeat yourself
+ .modularization allows you to reuse your part of your code.
+ .abstract that logic to improve readibility
+ .minimize the number of entities (function,classes,modules,etc.)
+ .function should do one thing
+ .use no more 3 arguments when possible
+----------------------------------
+7.Quiz refactoring wine quality.
+-----------------------------------
+8.Solution refactoring wine quality.
+-----------------------------------
 	
 
 
