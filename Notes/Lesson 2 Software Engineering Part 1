@@ -1,0 +1,30 @@
+1.Introduction
+ .Wrie clean and modular code.
+ .Improve code effciency
+ .Add effective documentation
+ .Use version control
+------------------------------
+2.Clean and Modular Code
+ .CLEAN: readable, simple, and concise.
+ .MODULAR: logically broken up into functions and modules.
+ .MODULE: a file. Modules allow code to be reused by encapsulating them into files that can be imported into other files.
+------------------------------
+3.Refactoring Code
+ .Restructuring code t0 improve internal structure without changing external functionality.
+ -Why refactor
+  .reduce workload long run
+  .easy to maintain code
+  .reuse more of your code
+  .become a better developer.
+------------------------------
+4.Writing clean code
+ .Be descriptive and imply type
+ .Be consistent but clearly differentiate
+ .Avoid abbreviations and especially single letters
+ .Long names != descriptive names 
+ .Use whitespace properly
+--------------------------------
+	
+
+
+		
